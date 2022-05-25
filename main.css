@@ -54,7 +54,9 @@ h2{ font: bolder;
 
 }
 #logo{width: 30px;
-margin-left: 5%;
+height: 70%;
+    margin-left: 5%;
+    margin: 5px;
 
 
 }

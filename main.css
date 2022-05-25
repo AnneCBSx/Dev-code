@@ -1,16 +1,28 @@
 
-body{
-padding: 1px;    
+*{
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: auto;
+    box-sizing: border-box
 }
 
-nav{ color: rgb(0, 0, 0);
+body{
+padding: 0px;    
+}
+
+header{ font-family: monospace;
+    border-radius: 10px;
+
+}
+nav{ 
+    color: rgb(0, 0, 0);
 text-align: center;
 border-radius:5px;
-font-family: righteous;
-
 }
 
 a{ font-size: medium;
+    
 
 
 }
@@ -26,9 +38,12 @@ h2{ font: bolder;
 
 }
 #square{ border-radius: 10px;
+    background: linear-gradient(68.15deg, rgba(73, 90, 245, 1) 16.62%, #5752b1 85.61%);
 
 }
-#Square2{ margin: auto;
+
+#Square2{ border-radius: 100px;
+
 }
 
 #imgg{ width: 20px;
@@ -39,6 +54,7 @@ h2{ font: bolder;
 #logo{width: 40px;
     display: block;
 margin-right: auto;
+
 
 }
 footer{background-color: white;

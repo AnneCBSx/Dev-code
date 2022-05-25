@@ -5,6 +5,7 @@
     margin-right: 5px;
     padding: auto;
     box-sizing: border-box
+
 }
 
 body{
@@ -12,7 +13,7 @@ padding: 0px;
 }
 
 header{ font-family: monospace;
-    border-radius: 10px;
+    border-radius: 12px;
     justify-content: center;
     display: flex;
 
@@ -44,11 +45,16 @@ h2{ font: bolder;
 
 }
 
+
 #Square2{ border-radius: 100px;
 
 }
 
-#imgg{ width: 20px;
+button{ color:black;
+
+}
+
+#imga{ width: 20px;
     display: block;
     margin: 0px auto;
 

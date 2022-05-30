@@ -13,7 +13,7 @@ padding: 0px;
 }
 
 header{ font-family: monospace;
-    border-radius: 12px;
+    border-radius: 5px;
     justify-content: center;
     display: flex;
 
@@ -30,17 +30,21 @@ a{ font-size: medium;
 
 }
 
-h1{
-    font-family:monospace;
+.H1{
+    font-family:SEGA LOGO FONT;
     color: rgb(0, 0, 0);
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
+    
 }
 
 h2{ font: bolder;
 
 }
-#square{ border-radius: 10px;
+#square{ 
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
     background: linear-gradient(68.15deg, rgba(73, 90, 245, 1) 16.62%, #5752b1 85.61%);
 
 }

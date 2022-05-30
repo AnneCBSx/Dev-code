@@ -38,9 +38,13 @@ a{ font-size: medium;
     
 }
 
-h2{ font: bolder;
+h2{ color:white;
+    font: bolder;
+}
+h3{color: white;
 
 }
+
 #square{ 
     width: 100%;
     height: 500px;

@@ -1,22 +1,22 @@
 
 *{
-    margin: 10px;
     margin-left: 5px;
     margin-right: 5px;
-    padding: auto;
+    padding: 1px;
     box-sizing: border-box
 
 }
 
 body{background-color: black;
 }
-.menu{background-color:white ;
-    width:1130px;height:50px
 
-}
+
+
+
+
 
 .bgheader{width:100% ;
-    height: 200px;
+    height: 300px;
 
 }
 header{ font-family: monospace;
@@ -25,6 +25,45 @@ header{ font-family: monospace;
     display: flex;
 
 }
+
+.menu{ width: 1000px;
+    height: 50px;
+    
+    
+}
+.HOME{ font-family: monospace;
+color: black;
+height: 30px;
+margin-left: 30%;
+display:inline;
+justify-content: center;
+
+
+}
+.SOBRE{font-family: monospace;
+    color: black;
+    height: 30px;
+    display: inline-flex;
+justify-content: center;
+
+
+}
+.SERVIÇOS{font-family: monospace;
+    color: black;
+    height: 30px;
+    display: inline-flex;
+    justify-content: center;
+
+}
+
+.CONTATO{font-family: monospace;
+    color: black;
+    height: 30px;
+    display: inline-flex;
+    justify-content: center;
+    
+}
+
 nav{ 
 color: rgb(0, 0, 0);
 text-align: center;
@@ -37,9 +76,9 @@ border-radius:5px;
 
 .H1{
     font-family:SEGA LOGO FONT;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     
 }
 
@@ -54,7 +93,7 @@ h3{color: white;
     width: 100%;
     height: 500px;
     border-radius: 10px;
-    background: linear-gradient(68.15deg, rgba(73, 90, 245, 1) 16.62%, #5752b1 85.61%);
+    background: rgba(73, 90, 245, 1);
 
 }
 
@@ -63,7 +102,7 @@ h3{color: white;
 
 }
 
-button{ color:black;
+button{ color:rgb(232, 226, 226);
 
 }
 
@@ -74,8 +113,10 @@ button{ color:black;
 }
 #logo{width: 40px;
 height: 70%;
-    margin-left: 5%;
+    
     margin: 5px;
+    display: inline;
+    justify-content: ;
 
 
 }
